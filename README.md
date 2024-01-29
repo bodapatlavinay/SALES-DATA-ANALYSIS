@@ -13,10 +13,15 @@ A sales report, also known as a sales analysis report, consolidates information 
 **Approach:**
 
 The main goal of the project is to find key metrics and factors and then show meaningful relationships between them based on different features available in the dataset.
+
 Data Collection : Imported data from various datasets available in the project using Python libraries.
+
 Data Cleaning : Removed missing values and created new features as per insights.
+
 Data Preprocessing : Modified the structure of data in order to make it more understandable and suitable and convenient for statistical analysis.
-Data Analysis : Started analyzing dataset to.
+
+Data Analysis : Started analyzing dataset.
+
 Data Visualization : Used pandas, Matplotlib and seabird for data visulization.
 
 **Tools Used:**
