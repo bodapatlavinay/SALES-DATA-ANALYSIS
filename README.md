@@ -25,5 +25,5 @@ Python libraries like pandas, numpy, matplotlib and seaborn are Used.
 
 **Dataset:**
 
-You can find the dataset on the given link : https://drive.google.com/drive/folders/1euxPjLOJKbIxleJdRyUs99ow6y5-i2rX?usp=drive_link
+You can find the dataset on the given link : https://drive.google.com/drive/folders/1euxPjLOJKbIxleJdRyUs99ow6y5-i2rX?usp=sharing
 
